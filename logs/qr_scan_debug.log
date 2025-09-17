@@ -1,0 +1,949 @@
+2025-08-18 21:20:26 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-9096"
+2025-08-18 21:20:26 - Detected member QR with prefix - "MEM-2025-9096"
+2025-08-18 21:20:26 - Attendance table exists
+2025-08-18 21:20:26 - Searching for member - {"member_code":"MEM-2025-9096"}
+2025-08-18 21:20:26 - Member found - {"id":23,"member_id":"MEM-2025-9096","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 21:20:26 - Processing for date - "2025-08-19"
+2025-08-18 21:20:26 - Last attendance record
+2025-08-18 21:20:26 - Processing time in
+2025-08-18 21:20:26 - Time in recorded - {"time_in":"2025-08-19 03:20:26","insert_id":0}
+2025-08-18 21:20:26 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":23,"code":"MEM-2025-9096","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 03:20:26","time_out":null,"status":"Active"}}
+2025-08-18 21:20:32 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-9096"
+2025-08-18 21:20:32 - Detected member QR with prefix - "MEM-2025-9096"
+2025-08-18 21:20:32 - Attendance table exists
+2025-08-18 21:20:32 - Searching for member - {"member_code":"MEM-2025-9096"}
+2025-08-18 21:20:32 - Member found - {"id":23,"member_id":"MEM-2025-9096","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 21:20:32 - Processing for date - "2025-08-19"
+2025-08-18 21:20:32 - Last attendance record - {"id":509,"time_in":"2025-08-19 03:20:26","time_out":null}
+2025-08-18 21:20:32 - Processing time out
+2025-08-18 21:20:32 - Time out recorded - {"time_out":"2025-08-19 03:20:32"}
+2025-08-18 21:20:32 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":23,"code":"MEM-2025-9096","name":"Mark Sambrano","type":"Regular"},"record":{"id":509,"time_in":"2025-08-19 03:20:26","time_out":"2025-08-19 03:20:32","status":"Completed"}}
+2025-08-18 21:29:57 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 21:29:57 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 21:29:57 - Attendance table exists
+2025-08-18 21:29:57 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 21:29:57 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 21:29:57 - Processing for date - "2025-08-19"
+2025-08-18 21:29:57 - Last attendance record
+2025-08-18 21:29:57 - Processing time in
+2025-08-18 21:29:57 - Time in recorded - {"time_in":"2025-08-19 03:29:57","insert_id":0}
+2025-08-18 21:29:57 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 03:29:57","time_out":null,"status":"Active"}}
+2025-08-18 21:30:25 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 21:30:25 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 21:30:25 - Attendance table exists
+2025-08-18 21:30:25 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 21:30:25 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 21:30:25 - Processing for date - "2025-08-19"
+2025-08-18 21:30:25 - Last attendance record - {"id":1,"time_in":"2025-08-19 03:29:57","time_out":null}
+2025-08-18 21:30:25 - Processing time out
+2025-08-18 21:30:25 - Time out recorded - {"time_out":"2025-08-19 03:30:25"}
+2025-08-18 21:30:25 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":1,"time_in":"2025-08-19 03:29:57","time_out":"2025-08-19 03:30:25","status":"Completed"}}
+2025-08-18 21:38:16 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 21:38:16 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 21:38:16 - Attendance table exists
+2025-08-18 21:38:16 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 21:38:16 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 21:38:16 - Processing for date - "2025-08-19"
+2025-08-18 21:38:16 - Last attendance record - {"id":1,"time_in":"2025-08-19 03:29:57","time_out":"2025-08-19 03:30:25"}
+2025-08-18 21:38:16 - Processing time in
+2025-08-18 21:38:16 - Time in recorded - {"time_in":"2025-08-19 03:38:16","insert_id":0}
+2025-08-18 21:38:16 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 03:38:16","time_out":null,"status":"Active"}}
+2025-08-18 22:11:27 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 22:11:27 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 22:11:27 - Attendance table exists
+2025-08-18 22:11:27 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 22:11:27 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 22:11:27 - Processing for date - "2025-08-19"
+2025-08-18 22:11:27 - Last attendance record
+2025-08-18 22:11:27 - Processing time in
+2025-08-18 22:11:27 - Time in recorded - {"time_in":"2025-08-19 04:11:27","insert_id":0}
+2025-08-18 22:11:27 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 04:11:27","time_out":null,"status":"Active"}}
+2025-08-18 22:11:44 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 22:11:44 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 22:11:44 - Attendance table exists
+2025-08-18 22:11:44 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 22:11:44 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 22:11:44 - Processing for date - "2025-08-19"
+2025-08-18 22:11:44 - Last attendance record - {"id":5,"time_in":"2025-08-19 04:11:27","time_out":null}
+2025-08-18 22:11:44 - Processing time out
+2025-08-18 22:11:44 - Time out recorded - {"time_out":"2025-08-19 04:11:44"}
+2025-08-18 22:11:44 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":5,"time_in":"2025-08-19 04:11:27","time_out":"2025-08-19 04:11:44","status":"Completed"}}
+2025-08-18 22:35:59 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 22:35:59 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 22:35:59 - Attendance table exists
+2025-08-18 22:35:59 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 22:35:59 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 22:35:59 - Processing for date - "2025-08-19"
+2025-08-18 22:35:59 - Last attendance record
+2025-08-18 22:35:59 - Processing time in
+2025-08-18 22:35:59 - Time in recorded - {"time_in":"2025-08-19 04:35:59","insert_id":0}
+2025-08-18 22:35:59 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 04:35:59","time_out":null,"status":"Active"}}
+2025-08-18 22:36:20 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 22:36:20 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 22:36:20 - Attendance table exists
+2025-08-18 22:36:20 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 22:36:20 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 22:36:20 - Processing for date - "2025-08-19"
+2025-08-18 22:36:20 - Last attendance record - {"id":6,"time_in":"2025-08-19 04:35:59","time_out":null}
+2025-08-18 22:36:20 - Processing time out
+2025-08-18 22:36:20 - Time out recorded - {"time_out":"2025-08-19 04:36:20"}
+2025-08-18 22:36:20 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":6,"time_in":"2025-08-19 04:35:59","time_out":"2025-08-19 04:36:20","status":"Completed"}}
+2025-08-18 22:40:45 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 22:40:45 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 22:40:45 - Attendance table exists
+2025-08-18 22:40:45 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 22:40:45 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 22:40:45 - Processing for date - "2025-08-19"
+2025-08-18 22:40:45 - Last attendance record
+2025-08-18 22:40:45 - Processing time in
+2025-08-18 22:40:45 - Time in recorded - {"time_in":"2025-08-19 04:40:45","insert_id":0}
+2025-08-18 22:40:45 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 04:40:45","time_out":null,"status":"Active"}}
+2025-08-18 22:40:54 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-6976"
+2025-08-18 22:40:54 - Detected member QR with prefix - "MEM-2025-6976"
+2025-08-18 22:40:54 - Attendance table exists
+2025-08-18 22:40:54 - Searching for member - {"member_code":"MEM-2025-6976"}
+2025-08-18 22:40:54 - Member found - {"id":17,"member_id":"MEM-2025-6976","first_name":"Mark Khestelle D. Sambrano","last_name":"Sambrano","membership_type":"regular"}
+2025-08-18 22:40:54 - Processing for date - "2025-08-19"
+2025-08-18 22:40:54 - Last attendance record - {"id":7,"time_in":"2025-08-19 04:40:45","time_out":null}
+2025-08-18 22:40:54 - Processing time out
+2025-08-18 22:40:54 - Time out recorded - {"time_out":"2025-08-19 04:40:54"}
+2025-08-18 22:40:54 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":17,"code":"MEM-2025-6976","name":"Mark Khestelle D. Sambrano Sambrano","type":"Regular"},"record":{"id":7,"time_in":"2025-08-19 04:40:45","time_out":"2025-08-19 04:40:54","status":"Completed"}}
+2025-08-19 06:57:02 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-19 06:57:02 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-19 06:57:02 - Attendance table exists
+2025-08-19 06:57:02 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-19 06:57:02 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-19 06:57:02 - Processing for date - "2025-08-19"
+2025-08-19 06:57:02 - Last attendance record
+2025-08-19 06:57:02 - Processing time in
+2025-08-19 06:57:02 - Time in recorded - {"time_in":"2025-08-19 12:57:02","insert_id":0}
+2025-08-19 06:57:02 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 12:57:02","time_out":null,"status":"Active"}}
+2025-08-19 06:57:13 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-19 06:57:13 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-19 06:57:13 - Attendance table exists
+2025-08-19 06:57:13 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-19 06:57:13 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-19 06:57:13 - Processing for date - "2025-08-19"
+2025-08-19 06:57:13 - Last attendance record - {"id":8,"time_in":"2025-08-19 12:57:02","time_out":null}
+2025-08-19 06:57:13 - Processing time out
+2025-08-19 06:57:13 - Time out recorded - {"time_out":"2025-08-19 12:57:13"}
+2025-08-19 06:57:13 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":8,"time_in":"2025-08-19 12:57:02","time_out":"2025-08-19 12:57:13","status":"Completed"}}
+2025-08-19 06:58:42 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-19 06:58:42 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-19 06:58:42 - Attendance table exists
+2025-08-19 06:58:42 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-19 06:58:42 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-19 06:58:42 - Processing for date - "2025-08-19"
+2025-08-19 06:58:42 - Last attendance record - {"id":8,"time_in":"2025-08-19 12:57:02","time_out":"2025-08-19 12:57:13"}
+2025-08-19 06:58:42 - Processing time in
+2025-08-19 06:58:42 - Time in recorded - {"time_in":"2025-08-19 12:58:42","insert_id":0}
+2025-08-19 06:58:42 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-19 12:58:42","time_out":null,"status":"Active"}}
+2025-08-20 03:01:53 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 03:01:53 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 03:01:53 - Attendance table exists
+2025-08-20 03:01:53 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 03:01:53 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 03:01:53 - Processing for date - "2025-08-20"
+2025-08-20 03:01:53 - Last attendance record
+2025-08-20 03:01:53 - Processing time in
+2025-08-20 03:01:53 - Time in recorded - {"time_in":"2025-08-20 09:01:53","insert_id":0}
+2025-08-20 03:01:53 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-20 09:01:53","time_out":null,"status":"Active"}}
+2025-08-20 03:02:14 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 03:02:14 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 03:02:14 - Attendance table exists
+2025-08-20 03:02:14 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 03:02:14 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 03:02:14 - Processing for date - "2025-08-20"
+2025-08-20 03:02:14 - Last attendance record - {"id":10,"time_in":"2025-08-20 09:01:53","time_out":null}
+2025-08-20 03:02:14 - Processing time out
+2025-08-20 03:02:14 - Time out recorded - {"time_out":"2025-08-20 09:02:14"}
+2025-08-20 03:02:14 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":10,"time_in":"2025-08-20 09:01:53","time_out":"2025-08-20 09:02:14","status":"Completed"}}
+2025-08-20 03:28:37 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 03:28:37 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 03:28:37 - Attendance table exists
+2025-08-20 03:28:37 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 03:28:37 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 03:28:37 - Processing for date - "2025-08-20"
+2025-08-20 03:28:37 - Last attendance record - {"id":10,"time_in":"2025-08-20 09:01:53","time_out":"2025-08-20 09:02:14"}
+2025-08-20 03:28:37 - Processing time in
+2025-08-20 03:28:38 - Time in recorded - {"time_in":"2025-08-20 09:28:37","insert_id":0}
+2025-08-20 03:28:38 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-20 09:28:37","time_out":null,"status":"Active"}}
+2025-08-20 03:30:18 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 03:30:18 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 03:30:18 - Attendance table exists
+2025-08-20 03:30:18 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 03:30:19 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 03:30:19 - Processing for date - "2025-08-20"
+2025-08-20 03:30:19 - Last attendance record - {"id":11,"time_in":"2025-08-20 09:28:37","time_out":null}
+2025-08-20 03:30:19 - Processing time out
+2025-08-20 03:30:19 - Time out recorded - {"time_out":"2025-08-20 09:30:19"}
+2025-08-20 03:30:19 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":11,"time_in":"2025-08-20 09:28:37","time_out":"2025-08-20 09:30:19","status":"Completed"}}
+2025-08-20 04:08:53 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 04:08:53 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 04:08:53 - Attendance table exists
+2025-08-20 04:08:53 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 04:08:53 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 04:08:53 - Processing for date - "2025-08-20"
+2025-08-20 04:08:53 - Last attendance record - {"id":11,"time_in":"2025-08-20 09:28:37","time_out":"2025-08-20 09:30:19"}
+2025-08-20 04:08:53 - Processing time in
+2025-08-20 04:08:53 - Time in recorded - {"time_in":"2025-08-20 10:08:53","insert_id":0}
+2025-08-20 04:08:53 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-20 10:08:53","time_out":null,"status":"Active"}}
+2025-08-20 04:09:12 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 04:09:12 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 04:09:12 - Attendance table exists
+2025-08-20 04:09:12 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 04:09:12 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 04:09:12 - Processing for date - "2025-08-20"
+2025-08-20 04:09:12 - Last attendance record - {"id":12,"time_in":"2025-08-20 10:08:53","time_out":null}
+2025-08-20 04:09:12 - Processing time out
+2025-08-20 04:09:12 - Time out recorded - {"time_out":"2025-08-20 10:09:12"}
+2025-08-20 04:09:12 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":12,"time_in":"2025-08-20 10:08:53","time_out":"2025-08-20 10:09:12","status":"Completed"}}
+2025-08-20 04:58:29 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 04:58:29 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 04:58:29 - Attendance table exists
+2025-08-20 04:58:29 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 04:58:29 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 04:58:29 - Processing for date - "2025-08-20"
+2025-08-20 04:58:29 - Last attendance record - {"id":12,"time_in":"2025-08-20 10:08:53","time_out":"2025-08-20 10:09:12"}
+2025-08-20 04:58:29 - Processing time in
+2025-08-20 04:58:29 - Time in recorded - {"time_in":"2025-08-20 10:58:29","insert_id":0}
+2025-08-20 04:58:29 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-20 10:58:29","time_out":null,"status":"Active"}}
+2025-08-20 04:58:33 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 04:58:33 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 04:58:33 - Attendance table exists
+2025-08-20 04:58:33 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 04:58:33 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 04:58:33 - Processing for date - "2025-08-20"
+2025-08-20 04:58:33 - Last attendance record - {"id":13,"time_in":"2025-08-20 10:58:29","time_out":null}
+2025-08-20 04:58:33 - Processing time out
+2025-08-20 04:58:33 - Time out recorded - {"time_out":"2025-08-20 10:58:33"}
+2025-08-20 04:58:33 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":13,"time_in":"2025-08-20 10:58:29","time_out":"2025-08-20 10:58:33","status":"Completed"}}
+2025-08-20 05:10:41 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 05:10:41 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 05:10:41 - Attendance table exists
+2025-08-20 05:10:41 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 05:10:41 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 05:10:41 - Processing for date - "2025-08-20"
+2025-08-20 05:10:41 - Last attendance record - {"id":13,"time_in":"2025-08-20 10:58:29","time_out":"2025-08-20 10:58:33"}
+2025-08-20 05:10:41 - Processing time in
+2025-08-20 05:10:41 - Time in recorded - {"time_in":"2025-08-20 11:10:41","insert_id":0}
+2025-08-20 05:10:41 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":0,"time_in":"2025-08-20 11:10:41","time_out":null,"status":"Active"}}
+2025-08-20 05:11:19 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0210"
+2025-08-20 05:11:19 - Detected member QR with prefix - "MEM-2025-0210"
+2025-08-20 05:11:19 - Attendance table exists
+2025-08-20 05:11:19 - Searching for member - {"member_code":"MEM-2025-0210"}
+2025-08-20 05:11:19 - Member found - {"id":27,"member_id":"MEM-2025-0210","first_name":"Sunshine","last_name":"Poserio","membership_type":"regular"}
+2025-08-20 05:11:19 - Processing for date - "2025-08-20"
+2025-08-20 05:11:19 - Last attendance record - {"id":14,"time_in":"2025-08-20 11:10:41","time_out":null}
+2025-08-20 05:11:19 - Processing time out
+2025-08-20 05:11:19 - Time out recorded - {"time_out":"2025-08-20 11:11:19"}
+2025-08-20 05:11:19 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":27,"code":"MEM-2025-0210","name":"Sunshine Poserio","type":"Regular"},"record":{"id":14,"time_in":"2025-08-20 11:10:41","time_out":"2025-08-20 11:11:19","status":"Completed"}}
+2025-08-20 18:58:36 - Received QR data
+2025-08-20 18:58:36 - Missing QR data
+2025-08-22 16:39:58 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-1601"
+2025-08-22 16:39:58 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-1601","type":"members"}
+2025-08-22 16:39:58 - Detected member QR with prefix - "MEM-2025-1601"
+2025-08-22 16:39:58 - Attendance table exists
+2025-08-22 16:39:58 - Searching for member - {"member_code":"MEM-2025-1601"}
+2025-08-22 16:39:58 - Member found - {"id":32,"member_id":"MEM-2025-1601","first_name":"Jessa","last_name":"Acosta","membership_type":"student"}
+2025-08-22 16:39:58 - Processing for date - "2025-08-22"
+2025-08-22 16:39:58 - Last attendance record
+2025-08-22 16:39:58 - Processing time in
+2025-08-22 16:39:58 - Time in recorded - {"time_in":"2025-08-22 22:39:58","insert_id":0}
+2025-08-22 16:39:58 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":32,"code":"MEM-2025-1601","name":"Jessa Acosta","type":"Student"},"record":{"id":0,"time_in":"2025-08-22 22:39:58","time_out":null,"status":"Active"}}
+2025-08-22 16:40:05 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-1601"
+2025-08-22 16:40:05 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-1601","type":"members"}
+2025-08-22 16:40:05 - Detected member QR with prefix - "MEM-2025-1601"
+2025-08-22 16:40:05 - Attendance table exists
+2025-08-22 16:40:05 - Searching for member - {"member_code":"MEM-2025-1601"}
+2025-08-22 16:40:05 - Member found - {"id":32,"member_id":"MEM-2025-1601","first_name":"Jessa","last_name":"Acosta","membership_type":"student"}
+2025-08-22 16:40:05 - Processing for date - "2025-08-22"
+2025-08-22 16:40:05 - Last attendance record - {"id":16,"time_in":"2025-08-22 22:39:58","time_out":null}
+2025-08-22 16:40:05 - Processing time out
+2025-08-22 16:40:05 - Time out recorded - {"time_out":"2025-08-22 22:40:05"}
+2025-08-22 16:40:05 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":32,"code":"MEM-2025-1601","name":"Jessa Acosta","type":"Student"},"record":{"id":16,"time_in":"2025-08-22 22:39:58","time_out":"2025-08-22 22:40:05","status":"Completed"}}
+2025-08-25 13:48:13 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-9329"
+2025-08-25 13:48:13 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-9329","type":"members"}
+2025-08-25 13:48:13 - Detected member QR with prefix - "MEM-2025-9329"
+2025-08-25 13:48:13 - Attendance table exists
+2025-08-25 13:48:13 - Searching for member - {"member_code":"MEM-2025-9329"}
+2025-08-25 13:48:13 - Member found - {"id":1,"member_id":"MEM-2025-9329","first_name":"AYAYA","last_name":"Kamisato","membership_type":"regular"}
+2025-08-25 13:48:13 - Processing for date - "2025-08-25"
+2025-08-25 13:48:13 - Last attendance record
+2025-08-25 13:48:13 - Processing time in
+2025-08-25 13:48:13 - Time in recorded - {"time_in":"2025-08-25 19:48:13","insert_id":0}
+2025-08-25 13:48:13 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":1,"code":"MEM-2025-9329","name":"AYAYA Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-08-25 19:48:13","time_out":null,"status":"Active"}}
+2025-08-25 13:48:42 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-9329"
+2025-08-25 13:48:42 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-9329","type":"members"}
+2025-08-25 13:48:42 - Detected member QR with prefix - "MEM-2025-9329"
+2025-08-25 13:48:42 - Attendance table exists
+2025-08-25 13:48:42 - Searching for member - {"member_code":"MEM-2025-9329"}
+2025-08-25 13:48:42 - Member found - {"id":1,"member_id":"MEM-2025-9329","first_name":"AYAYA","last_name":"Kamisato","membership_type":"regular"}
+2025-08-25 13:48:42 - Processing for date - "2025-08-25"
+2025-08-25 13:48:42 - Last attendance record - {"id":1,"time_in":"2025-08-25 19:48:13","time_out":null}
+2025-08-25 13:48:42 - Processing time out
+2025-08-25 13:48:42 - Time out recorded - {"time_out":"2025-08-25 19:48:42"}
+2025-08-25 13:48:42 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":1,"code":"MEM-2025-9329","name":"AYAYA Kamisato","type":"Regular"},"record":{"id":1,"time_in":"2025-08-25 19:48:13","time_out":"2025-08-25 19:48:42","status":"Completed"}}
+2025-08-26 02:34:12 - Received QR data
+2025-08-26 02:34:12 - All POST data received - {"qr_data":"","type":"members"}
+2025-08-26 02:34:12 - Missing QR data
+2025-08-26 02:35:12 - Received QR data
+2025-08-26 02:35:12 - All POST data received - {"qr_data":"","type":"members"}
+2025-08-26 02:35:12 - Missing QR data
+2025-08-26 02:35:12 - Received QR data
+2025-08-26 02:35:12 - All POST data received - {"qr_data":"","type":"members"}
+2025-08-26 02:35:12 - Missing QR data
+2025-08-26 02:35:21 - Received QR data
+2025-08-26 02:35:21 - All POST data received - {"qr_data":"","type":"members"}
+2025-08-26 02:35:21 - Missing QR data
+2025-08-26 02:42:54 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0773"
+2025-08-26 02:42:54 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0773","type":"members"}
+2025-08-26 02:42:54 - Detected member QR with prefix - "MEM-2025-0773"
+2025-08-26 02:42:54 - Attendance table exists
+2025-08-26 02:42:54 - Searching for member - {"member_code":"MEM-2025-0773"}
+2025-08-26 02:42:54 - Member found - {"id":3,"member_id":"MEM-2025-0773","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-08-26 02:42:54 - Processing for date - "2025-08-26"
+2025-08-26 02:42:54 - Last attendance record - {"id":2,"time_in":"2025-08-26 08:41:36","time_out":"2025-08-26 08:41:50"}
+2025-08-26 02:42:54 - Processing time in
+2025-08-26 02:42:54 - Time in recorded - {"time_in":"2025-08-26 08:42:54","insert_id":0}
+2025-08-26 02:42:54 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":3,"code":"MEM-2025-0773","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-08-26 08:42:54","time_out":null,"status":"Active"}}
+2025-08-26 02:43:21 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0773"
+2025-08-26 02:43:21 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0773","type":"members"}
+2025-08-26 02:43:21 - Detected member QR with prefix - "MEM-2025-0773"
+2025-08-26 02:43:21 - Attendance table exists
+2025-08-26 02:43:21 - Searching for member - {"member_code":"MEM-2025-0773"}
+2025-08-26 02:43:21 - Member found - {"id":3,"member_id":"MEM-2025-0773","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-08-26 02:43:21 - Processing for date - "2025-08-26"
+2025-08-26 02:43:21 - Last attendance record - {"id":3,"time_in":"2025-08-26 08:42:54","time_out":null}
+2025-08-26 02:43:21 - Processing time out
+2025-08-26 02:43:21 - Time out recorded - {"time_out":"2025-08-26 08:43:21"}
+2025-08-26 02:43:21 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":3,"code":"MEM-2025-0773","name":"Mark Sambrano","type":"Regular"},"record":{"id":3,"time_in":"2025-08-26 08:42:54","time_out":"2025-08-26 08:43:21","status":"Completed"}}
+2025-08-26 02:44:08 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-26 02:44:08 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-26 02:44:08 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-26 02:44:08 - Attendance table exists
+2025-08-26 02:44:08 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-26 02:44:08 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-26 02:44:08 - Processing for date - "2025-08-26"
+2025-08-26 02:44:08 - Last attendance record
+2025-08-26 02:44:08 - Processing time in
+2025-08-26 02:44:08 - Time in recorded - {"time_in":"2025-08-26 08:44:08","insert_id":0}
+2025-08-26 02:44:08 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":4,"code":"MEM-2025-2260","name":"Jessa Acosta","type":"Regular"},"record":{"id":0,"time_in":"2025-08-26 08:44:08","time_out":null,"status":"Active"}}
+2025-08-26 02:44:15 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-26 02:44:15 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-26 02:44:15 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-26 02:44:15 - Attendance table exists
+2025-08-26 02:44:15 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-26 02:44:15 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-26 02:44:15 - Processing for date - "2025-08-26"
+2025-08-26 02:44:15 - Last attendance record - {"id":4,"time_in":"2025-08-26 08:44:08","time_out":null}
+2025-08-26 02:44:15 - Processing time out
+2025-08-26 02:44:15 - Time out recorded - {"time_out":"2025-08-26 08:44:15"}
+2025-08-26 02:44:15 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":4,"code":"MEM-2025-2260","name":"Jessa Acosta","type":"Regular"},"record":{"id":4,"time_in":"2025-08-26 08:44:08","time_out":"2025-08-26 08:44:15","status":"Completed"}}
+2025-08-26 02:45:14 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-26 02:45:14 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-26 02:45:14 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-26 02:45:14 - Attendance table exists
+2025-08-26 02:45:14 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-26 02:45:14 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-26 02:45:14 - Processing for date - "2025-08-26"
+2025-08-26 02:45:14 - Last attendance record - {"id":4,"time_in":"2025-08-26 08:44:08","time_out":"2025-08-26 08:44:15"}
+2025-08-26 02:45:14 - Processing time in
+2025-08-26 02:45:14 - Time in recorded - {"time_in":"2025-08-26 08:45:14","insert_id":0}
+2025-08-26 02:45:14 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":4,"code":"MEM-2025-2260","name":"Jessa Acosta","type":"Regular"},"record":{"id":0,"time_in":"2025-08-26 08:45:14","time_out":null,"status":"Active"}}
+2025-08-26 02:45:20 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-26 02:45:20 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-26 02:45:20 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-26 02:45:20 - Attendance table exists
+2025-08-26 02:45:20 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-26 02:45:20 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-26 02:45:20 - Processing for date - "2025-08-26"
+2025-08-26 02:45:20 - Last attendance record - {"id":5,"time_in":"2025-08-26 08:45:14","time_out":null}
+2025-08-26 02:45:20 - Processing time out
+2025-08-26 02:45:20 - Time out recorded - {"time_out":"2025-08-26 08:45:20"}
+2025-08-26 02:45:20 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":4,"code":"MEM-2025-2260","name":"Jessa Acosta","type":"Regular"},"record":{"id":5,"time_in":"2025-08-26 08:45:14","time_out":"2025-08-26 08:45:20","status":"Completed"}}
+2025-08-27 03:04:49 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-27 03:04:49 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-27 03:04:49 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-27 03:04:49 - Attendance table exists
+2025-08-27 03:04:49 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-27 03:04:49 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-27 03:04:49 - Processing for date - "2025-08-27"
+2025-08-27 03:04:49 - Last attendance record
+2025-08-27 03:04:49 - Processing time in
+2025-08-27 03:04:49 - Time in recorded - {"time_in":"2025-08-27 09:04:49","insert_id":0}
+2025-08-27 03:04:49 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":4,"code":"MEM-2025-2260","name":"Jessa Acosta","type":"Regular"},"record":{"id":0,"time_in":"2025-08-27 09:04:49","time_out":null,"status":"Active"}}
+2025-08-27 03:04:59 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-27 03:04:59 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-27 03:04:59 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-27 03:04:59 - Attendance table exists
+2025-08-27 03:04:59 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-27 03:04:59 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-27 03:04:59 - Processing for date - "2025-08-27"
+2025-08-27 03:04:59 - Last attendance record - {"id":6,"time_in":"2025-08-27 09:04:49","time_out":null}
+2025-08-27 03:04:59 - Processing time out
+2025-08-27 03:05:50 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-2260"
+2025-08-27 03:05:50 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-2260","type":"members"}
+2025-08-27 03:05:50 - Detected member QR with prefix - "MEM-2025-2260"
+2025-08-27 03:05:50 - Attendance table exists
+2025-08-27 03:05:50 - Searching for member - {"member_code":"MEM-2025-2260"}
+2025-08-27 03:05:50 - Member found - {"id":4,"member_id":"MEM-2025-2260","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-08-27 03:05:50 - Processing for date - "2025-08-27"
+2025-08-27 03:05:50 - Last attendance record - {"id":6,"time_in":"2025-08-27 09:04:49","time_out":null}
+2025-08-27 03:05:50 - Processing time out
+2025-08-27 03:05:50 - Time out recorded - {"time_out":"2025-08-27 09:05:50"}
+2025-08-27 03:05:50 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":4,"code":"MEM-2025-2260","name":"Jessa Acosta","type":"Regular"},"record":{"id":6,"time_in":"2025-08-27 09:04:49","time_out":"2025-08-27 09:05:50","status":"Completed"}}
+2025-08-30 02:36:28 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 02:36:28 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"members"}
+2025-08-30 02:36:28 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 02:36:28 - Attendance table exists
+2025-08-30 02:36:28 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 02:36:28 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 02:36:28 - Processing for date - "2025-08-30"
+2025-08-30 02:36:28 - Last attendance record
+2025-08-30 02:36:28 - Processing time in
+2025-08-30 02:36:28 - Time in recorded - {"time_in":"2025-08-30 08:36:28","insert_id":0}
+2025-08-30 02:36:28 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 08:36:28","time_out":null,"status":"Active"}}
+2025-08-30 02:36:43 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 02:36:43 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 02:36:43 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 02:36:43 - Attendance table exists
+2025-08-30 02:36:43 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 02:36:43 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 02:36:43 - Processing for date - "2025-08-30"
+2025-08-30 02:36:43 - Last attendance record - {"id":8,"time_in":"2025-08-30 08:36:28","time_out":null}
+2025-08-30 02:36:43 - Processing time out
+2025-08-30 02:36:44 - Time out recorded - {"time_out":"2025-08-30 08:36:43"}
+2025-08-30 02:36:44 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":8,"time_in":"2025-08-30 08:36:28","time_out":"2025-08-30 08:36:43","status":"Completed"}}
+2025-08-30 02:44:25 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 02:44:25 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 02:44:25 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 02:44:25 - Attendance table exists
+2025-08-30 02:44:25 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 02:44:25 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 02:44:25 - Processing for date - "2025-08-30"
+2025-08-30 02:44:25 - Last attendance record
+2025-08-30 02:44:25 - Processing time in
+2025-08-30 02:44:25 - Time in recorded - {"time_in":"2025-08-30 08:44:25","insert_id":0}
+2025-08-30 02:44:25 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 08:44:25","time_out":null,"status":"Active"}}
+2025-08-30 02:50:19 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 02:50:19 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","type":"members"}
+2025-08-30 02:50:19 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 02:50:19 - Attendance table exists
+2025-08-30 02:50:19 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 02:50:19 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 02:50:19 - Processing for date - "2025-08-30"
+2025-08-30 02:50:19 - Last attendance record
+2025-08-30 02:50:19 - Processing time in
+2025-08-30 02:50:19 - Time in recorded - {"time_in":"2025-08-30 08:50:19","insert_id":0}
+2025-08-30 02:50:19 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-08-30 08:50:19","time_out":null,"status":"Active"}}
+2025-08-30 02:56:22 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 02:56:22 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","type":"members"}
+2025-08-30 02:56:22 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 02:56:22 - Attendance table exists
+2025-08-30 02:56:22 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 02:56:22 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 02:56:22 - Processing for date - "2025-08-30"
+2025-08-30 02:56:22 - Last attendance record - {"id":10,"time_in":"2025-08-30 08:50:19","time_out":null}
+2025-08-30 02:56:22 - Processing time out
+2025-08-30 02:56:22 - Time out recorded - {"time_out":"2025-08-30 08:56:22"}
+2025-08-30 02:56:22 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":10,"time_in":"2025-08-30 08:50:19","time_out":"2025-08-30 08:56:22","status":"Completed"}}
+2025-08-30 02:56:36 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 02:56:36 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"members"}
+2025-08-30 02:56:36 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 02:56:36 - Attendance table exists
+2025-08-30 02:56:36 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 02:56:36 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 02:56:36 - Processing for date - "2025-08-30"
+2025-08-30 02:56:36 - Last attendance record - {"id":9,"time_in":"2025-08-30 08:44:25","time_out":null}
+2025-08-30 02:56:36 - Processing time out
+2025-08-30 02:56:36 - Time out recorded - {"time_out":"2025-08-30 08:56:36"}
+2025-08-30 02:56:36 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":9,"time_in":"2025-08-30 08:44:25","time_out":"2025-08-30 08:56:36","status":"Completed"}}
+2025-08-30 03:10:35 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 03:10:35 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","type":"staff"}
+2025-08-30 03:10:35 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 03:10:35 - Attendance table exists
+2025-08-30 03:10:35 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 03:10:35 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 03:10:35 - Processing for date - "2025-08-30"
+2025-08-30 03:10:35 - Last attendance record - {"id":10,"time_in":"2025-08-30 08:50:19","time_out":"2025-08-30 08:56:22"}
+2025-08-30 03:10:35 - Processing time in
+2025-08-30 03:10:35 - Time in recorded - {"time_in":"2025-08-30 09:10:35","insert_id":0}
+2025-08-30 03:10:35 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-08-30 09:10:35","time_out":null,"status":"Active"}}
+2025-08-30 03:11:01 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 03:11:01 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","type":"staff"}
+2025-08-30 03:11:01 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 03:11:01 - Attendance table exists
+2025-08-30 03:11:01 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 03:11:01 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 03:11:01 - Processing for date - "2025-08-30"
+2025-08-30 03:11:01 - Last attendance record - {"id":11,"time_in":"2025-08-30 09:10:35","time_out":null}
+2025-08-30 03:11:01 - Processing time out
+2025-08-30 03:11:01 - Time out recorded - {"time_out":"2025-08-30 09:11:01"}
+2025-08-30 03:11:01 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":11,"time_in":"2025-08-30 09:10:35","time_out":"2025-08-30 09:11:01","status":"Completed"}}
+2025-08-30 04:46:34 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 04:46:34 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","type":"members"}
+2025-08-30 04:46:34 - Scanner type - "admin"
+2025-08-30 04:46:34 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 04:46:34 - Attendance table exists
+2025-08-30 04:46:34 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 04:46:34 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 04:46:34 - Processing for date - "2025-08-30"
+2025-08-30 04:46:34 - Last attendance record - {"id":11,"time_in":"2025-08-30 09:10:35","time_out":"2025-08-30 09:11:01"}
+2025-08-30 04:46:34 - Processing time in
+2025-08-30 04:46:34 - Time in recorded - {"time_in":"2025-08-30 10:46:34","insert_id":0}
+2025-08-30 04:46:34 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-08-30 10:46:34","time_out":null,"status":"Active"}}
+2025-08-30 04:47:03 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 04:47:03 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"members"}
+2025-08-30 04:47:03 - Scanner type - "admin"
+2025-08-30 04:47:03 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 04:47:03 - Attendance table exists
+2025-08-30 04:47:03 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 04:47:03 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 04:47:03 - Processing for date - "2025-08-30"
+2025-08-30 04:47:03 - Last attendance record - {"id":9,"time_in":"2025-08-30 08:44:25","time_out":"2025-08-30 08:56:36"}
+2025-08-30 04:47:03 - Processing time in
+2025-08-30 04:47:03 - Time in recorded - {"time_in":"2025-08-30 10:47:03","insert_id":0}
+2025-08-30 04:47:03 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 10:47:03","time_out":null,"status":"Active"}}
+2025-08-30 04:52:40 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 04:52:40 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","type":"members"}
+2025-08-30 04:52:40 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 04:52:40 - Scanner type - "admin"
+2025-08-30 04:52:40 - Attendance table exists
+2025-08-30 04:52:40 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 04:52:40 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 04:52:40 - Processing for date - "2025-08-30"
+2025-08-30 04:52:40 - Last attendance record - {"id":12,"time_in":"2025-08-30 10:46:34","time_out":null}
+2025-08-30 04:52:40 - Processing time out
+2025-08-30 04:52:40 - Time out recorded - {"time_out":"2025-08-30 10:52:40"}
+2025-08-30 04:52:40 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":12,"time_in":"2025-08-30 10:46:34","time_out":"2025-08-30 10:52:40","status":"Completed"}}
+2025-08-30 05:05:11 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-5731"
+2025-08-30 05:05:11 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-5731","scanner_type":"member"}
+2025-08-30 05:05:11 - Detected member QR with prefix - "MEM-2025-5731"
+2025-08-30 05:05:11 - Scanner type - "member"
+2025-08-30 05:05:11 - Attendance table exists
+2025-08-30 05:05:11 - Searching for member - {"member_code":"MEM-2025-5731"}
+2025-08-30 05:05:11 - Member found - {"id":5,"member_id":"MEM-2025-5731","first_name":"Mark","last_name":"Kamisato","membership_type":"regular"}
+2025-08-30 05:05:11 - Processing for date - "2025-08-30"
+2025-08-30 05:05:11 - Last attendance record - {"id":12,"time_in":"2025-08-30 10:46:34","time_out":"2025-08-30 10:52:40"}
+2025-08-30 05:05:11 - Processing time in
+2025-08-30 05:05:11 - Time in recorded - {"time_in":"2025-08-30 11:05:11","insert_id":0}
+2025-08-30 05:05:11 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":5,"code":"MEM-2025-5731","name":"Mark Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-08-30 11:05:11","time_out":null,"status":"Active"}}
+2025-08-30 05:05:22 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:05:22 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","scanner_type":"staff"}
+2025-08-30 05:05:22 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:05:22 - Scanner type - "staff"
+2025-08-30 05:05:22 - Attendance table exists
+2025-08-30 05:05:22 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:05:22 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:05:22 - Processing for date - "2025-08-30"
+2025-08-30 05:05:22 - Last attendance record - {"id":13,"time_in":"2025-08-30 10:47:03","time_out":null}
+2025-08-30 05:05:22 - Processing time out
+2025-08-30 05:05:22 - Time out recorded - {"time_out":"2025-08-30 11:05:22"}
+2025-08-30 05:05:22 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":13,"time_in":"2025-08-30 10:47:03","time_out":"2025-08-30 11:05:22","status":"Completed"}}
+2025-08-30 05:05:41 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:05:41 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","scanner_type":"member"}
+2025-08-30 05:05:41 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:05:41 - Scanner type - "member"
+2025-08-30 05:05:41 - Member scanner attempted to scan staff QR code - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","scanner_type":"member"}
+2025-08-30 05:09:27 - Received QR data
+2025-08-30 05:09:27 - All POST data received - {"qr_data":"","scanner_type":"member"}
+2025-08-30 05:09:27 - Missing QR data
+2025-08-30 05:10:06 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:10:06 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","scanner_type":"staff"}
+2025-08-30 05:10:06 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:10:06 - Scanner type - "staff"
+2025-08-30 05:10:06 - Attendance table exists
+2025-08-30 05:10:06 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:10:06 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:10:06 - Processing for date - "2025-08-30"
+2025-08-30 05:10:06 - Last attendance record - {"id":13,"time_in":"2025-08-30 10:47:03","time_out":"2025-08-30 11:05:22"}
+2025-08-30 05:10:06 - Processing time in
+2025-08-30 05:10:06 - Time in recorded - {"time_in":"2025-08-30 11:10:06","insert_id":0}
+2025-08-30 05:10:06 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 11:10:06","time_out":null,"status":"Active"}}
+2025-08-30 05:12:46 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:12:46 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","scanner_type":"staff"}
+2025-08-30 05:12:46 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:12:46 - Scanner type - "staff"
+2025-08-30 05:12:46 - Attendance table exists
+2025-08-30 05:12:46 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:12:46 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:12:46 - Processing for date - "2025-08-30"
+2025-08-30 05:12:46 - Last attendance record - {"id":15,"time_in":"2025-08-30 11:10:06","time_out":null}
+2025-08-30 05:12:46 - Processing time out
+2025-08-30 05:12:46 - Time out recorded - {"time_out":"2025-08-30 11:12:46"}
+2025-08-30 05:12:46 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":15,"time_in":"2025-08-30 11:10:06","time_out":"2025-08-30 11:12:46","status":"Completed"}}
+2025-08-30 05:35:21 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:35:21 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 05:35:21 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:35:21 - Attendance table exists
+2025-08-30 05:35:21 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:35:21 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:35:21 - Processing for date - "2025-08-30"
+2025-08-30 05:35:21 - Last attendance record - {"id":15,"time_in":"2025-08-30 11:10:06","time_out":"2025-08-30 11:12:46"}
+2025-08-30 05:35:21 - Processing time in
+2025-08-30 05:35:21 - Time in recorded - {"time_in":"2025-08-30 11:35:21","insert_id":0}
+2025-08-30 05:35:21 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 11:35:21","time_out":null,"status":"Active"}}
+2025-08-30 05:35:33 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:35:33 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 05:35:33 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:35:33 - Attendance table exists
+2025-08-30 05:35:33 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:35:33 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:35:33 - Processing for date - "2025-08-30"
+2025-08-30 05:35:33 - Last attendance record - {"id":16,"time_in":"2025-08-30 11:35:21","time_out":null}
+2025-08-30 05:35:33 - Processing time out
+2025-08-30 05:35:33 - Time out recorded - {"time_out":"2025-08-30 11:35:33"}
+2025-08-30 05:35:33 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":16,"time_in":"2025-08-30 11:35:21","time_out":"2025-08-30 11:35:33","status":"Completed"}}
+2025-08-30 05:39:17 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:39:17 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 05:39:17 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:39:17 - Attendance table exists
+2025-08-30 05:39:17 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:39:17 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:39:17 - Processing for date - "2025-08-30"
+2025-08-30 05:39:17 - Last attendance record - {"id":16,"time_in":"2025-08-30 11:35:21","time_out":"2025-08-30 11:35:33"}
+2025-08-30 05:39:17 - Processing time in
+2025-08-30 05:39:17 - Time in recorded - {"time_in":"2025-08-30 11:39:17","insert_id":0}
+2025-08-30 05:39:17 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 11:39:17","time_out":null,"status":"Active"}}
+2025-08-30 05:39:40 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:39:40 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 05:39:40 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:39:40 - Attendance table exists
+2025-08-30 05:39:40 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:39:40 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:39:40 - Processing for date - "2025-08-30"
+2025-08-30 05:39:40 - Last attendance record - {"id":17,"time_in":"2025-08-30 11:39:17","time_out":null}
+2025-08-30 05:39:40 - Processing time out
+2025-08-30 05:39:40 - Time out recorded - {"time_out":"2025-08-30 11:39:40"}
+2025-08-30 05:39:40 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":17,"time_in":"2025-08-30 11:39:17","time_out":"2025-08-30 11:39:40","status":"Completed"}}
+2025-08-30 05:46:35 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:46:35 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 05:46:35 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:46:35 - Attendance table exists
+2025-08-30 05:46:35 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:46:35 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:46:35 - Processing for date - "2025-08-30"
+2025-08-30 05:46:35 - Last attendance record - {"id":17,"time_in":"2025-08-30 11:39:17","time_out":"2025-08-30 11:39:40"}
+2025-08-30 05:46:35 - Processing time in
+2025-08-30 05:46:35 - Time in recorded - {"time_in":"2025-08-30 11:46:35","insert_id":0}
+2025-08-30 05:46:35 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":0,"time_in":"2025-08-30 11:46:35","time_out":null,"status":"Active"}}
+2025-08-30 05:46:44 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5894"
+2025-08-30 05:46:44 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5894","type":"staff"}
+2025-08-30 05:46:44 - Detected staff QR with prefix - "STAFF-2025-5894"
+2025-08-30 05:46:44 - Attendance table exists
+2025-08-30 05:46:44 - Searching for staff - {"staff_code":"STAFF-2025-5894"}
+2025-08-30 05:46:44 - Staff found - {"id":1,"member_id":"STAFF-2025-5894","first_name":"Mark","last_name":"Sambrano","membership_type":"agat"}
+2025-08-30 05:46:44 - Processing for date - "2025-08-30"
+2025-08-30 05:46:44 - Last attendance record - {"id":18,"time_in":"2025-08-30 11:46:35","time_out":null}
+2025-08-30 05:46:44 - Processing time out
+2025-08-30 05:46:44 - Time out recorded - {"time_out":"2025-08-30 11:46:44"}
+2025-08-30 05:46:44 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":1,"code":"STAFF-2025-5894","name":"Mark Sambrano","type":"Agat"},"record":{"id":18,"time_in":"2025-08-30 11:46:35","time_out":"2025-08-30 11:46:44","status":"Completed"}}
+2025-09-03 10:48:54 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 10:48:54 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 10:48:54 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 10:48:54 - Attendance table exists
+2025-09-03 10:48:54 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 10:48:54 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 10:48:54 - Processing for date - "2025-09-03"
+2025-09-03 10:48:54 - Last attendance record - {"id":9,"time_in":"2025-09-03 14:46:56","time_out":null}
+2025-09-03 10:48:54 - Processing time out
+2025-09-03 10:48:54 - Time out recorded - {"time_out":"2025-09-03 16:48:54"}
+2025-09-03 10:48:54 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":9,"time_in":"2025-09-03 14:46:56","time_out":"2025-09-03 16:48:54","status":"Completed"}}
+2025-09-03 10:48:54 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 10:48:54 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 10:48:54 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 10:48:54 - Attendance table exists
+2025-09-03 10:48:54 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 10:48:54 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 10:48:54 - Processing for date - "2025-09-03"
+2025-09-03 10:48:54 - Last attendance record - {"id":9,"time_in":"2025-09-03 14:46:56","time_out":"2025-09-03 16:48:54"}
+2025-09-03 10:48:54 - Processing time in
+2025-09-03 10:48:54 - Time in recorded - {"time_in":"2025-09-03 16:48:54","insert_id":0}
+2025-09-03 10:48:54 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-03 16:48:54","time_out":null,"status":"Active"}}
+2025-09-03 10:49:04 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 10:49:04 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 10:49:04 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 10:49:04 - Attendance table exists
+2025-09-03 10:49:04 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 10:49:04 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 10:49:04 - Processing for date - "2025-09-03"
+2025-09-03 10:49:04 - Last attendance record - {"id":10,"time_in":"2025-09-03 16:48:54","time_out":null}
+2025-09-03 10:49:04 - Processing time out
+2025-09-03 10:49:04 - Time out recorded - {"time_out":"2025-09-03 16:49:04"}
+2025-09-03 10:49:04 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":10,"time_in":"2025-09-03 16:48:54","time_out":"2025-09-03 16:49:04","status":"Completed"}}
+2025-09-03 11:03:06 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:03:06 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:03:06 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:03:06 - Attendance table exists
+2025-09-03 11:03:06 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:03:06 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:03:06 - Processing for date - "2025-09-03"
+2025-09-03 11:03:06 - Last attendance record
+2025-09-03 11:03:06 - Processing time in
+2025-09-03 11:03:06 - Time in recorded - {"time_in":"2025-09-03 17:03:06","insert_id":0}
+2025-09-03 11:03:06 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-03 17:03:06","time_out":null,"status":"Active"}}
+2025-09-03 11:03:40 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5365"
+2025-09-03 11:03:40 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5365","type":"members"}
+2025-09-03 11:03:40 - Detected staff QR with prefix - "STAFF-2025-5365"
+2025-09-03 11:03:40 - Attendance table exists
+2025-09-03 11:03:40 - Searching for staff - {"staff_code":"STAFF-2025-5365"}
+2025-09-03 11:03:40 - Staff found - {"id":3,"member_id":"STAFF-2025-5365","first_name":"Sunshine","last_name":"Poserio","membership_type":"dsadsafafdaf"}
+2025-09-03 11:03:40 - Processing for date - "2025-09-03"
+2025-09-03 11:03:40 - Last attendance record
+2025-09-03 11:03:40 - Processing time in
+2025-09-03 11:03:40 - Time in recorded - {"time_in":"2025-09-03 17:03:40","insert_id":0}
+2025-09-03 11:03:40 - Success response - {"success":true,"action":"time_in","user_type":"staff","member":{"id":3,"code":"STAFF-2025-5365","name":"Sunshine Poserio","type":"Dsadsafafdaf"},"record":{"id":0,"time_in":"2025-09-03 17:03:40","time_out":null,"status":"Active"}}
+2025-09-03 11:03:49 - Received QR data - "FIT_TRACK_STAFF_ID:STAFF-2025-5365"
+2025-09-03 11:03:49 - All POST data received - {"qr_data":"FIT_TRACK_STAFF_ID:STAFF-2025-5365","type":"members"}
+2025-09-03 11:03:49 - Detected staff QR with prefix - "STAFF-2025-5365"
+2025-09-03 11:03:49 - Attendance table exists
+2025-09-03 11:03:49 - Searching for staff - {"staff_code":"STAFF-2025-5365"}
+2025-09-03 11:03:49 - Staff found - {"id":3,"member_id":"STAFF-2025-5365","first_name":"Sunshine","last_name":"Poserio","membership_type":"dsadsafafdaf"}
+2025-09-03 11:03:49 - Processing for date - "2025-09-03"
+2025-09-03 11:03:49 - Last attendance record - {"id":12,"time_in":"2025-09-03 17:03:40","time_out":null}
+2025-09-03 11:03:49 - Processing time out
+2025-09-03 11:03:49 - Time out recorded - {"time_out":"2025-09-03 17:03:49"}
+2025-09-03 11:03:49 - Success response - {"success":true,"action":"time_out","user_type":"staff","member":{"id":3,"code":"STAFF-2025-5365","name":"Sunshine Poserio","type":"Dsadsafafdaf"},"record":{"id":12,"time_in":"2025-09-03 17:03:40","time_out":"2025-09-03 17:03:49","status":"Completed"}}
+2025-09-03 11:04:04 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:04:04 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:04:04 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:04:04 - Attendance table exists
+2025-09-03 11:04:04 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:04:04 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:04:04 - Processing for date - "2025-09-03"
+2025-09-03 11:04:04 - Last attendance record
+2025-09-03 11:04:04 - Processing time in
+2025-09-03 11:04:04 - Time in recorded - {"time_in":"2025-09-03 17:04:04","insert_id":0}
+2025-09-03 11:04:04 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-03 17:04:04","time_out":null,"status":"Active"}}
+2025-09-03 11:04:14 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:04:14 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:04:14 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:04:14 - Attendance table exists
+2025-09-03 11:04:14 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:04:14 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:04:14 - Processing for date - "2025-09-03"
+2025-09-03 11:04:14 - Last attendance record - {"id":13,"time_in":"2025-09-03 17:04:04","time_out":null}
+2025-09-03 11:04:14 - Processing time out
+2025-09-03 11:04:14 - Time out recorded - {"time_out":"2025-09-03 17:04:14"}
+2025-09-03 11:04:14 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":13,"time_in":"2025-09-03 17:04:04","time_out":"2025-09-03 17:04:14","status":"Completed"}}
+2025-09-03 11:05:10 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:05:10 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:05:10 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:05:10 - Attendance table exists
+2025-09-03 11:05:10 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:05:10 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:05:10 - Processing for date - "2025-09-03"
+2025-09-03 11:05:10 - Last attendance record
+2025-09-03 11:05:10 - Processing time in
+2025-09-03 11:05:10 - Time in recorded - {"time_in":"2025-09-03 17:05:10","insert_id":0}
+2025-09-03 11:05:10 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-03 17:05:10","time_out":null,"status":"Active"}}
+2025-09-03 11:05:13 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:05:13 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:05:13 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:05:13 - Attendance table exists
+2025-09-03 11:05:13 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:05:13 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:05:13 - Processing for date - "2025-09-03"
+2025-09-03 11:05:13 - Last attendance record - {"id":14,"time_in":"2025-09-03 17:05:10","time_out":null}
+2025-09-03 11:05:13 - Processing time out
+2025-09-03 11:05:13 - Time out recorded - {"time_out":"2025-09-03 17:05:13"}
+2025-09-03 11:05:13 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":14,"time_in":"2025-09-03 17:05:10","time_out":"2025-09-03 17:05:13","status":"Completed"}}
+2025-09-03 11:07:45 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:07:45 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:07:45 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:07:45 - Attendance table exists
+2025-09-03 11:07:45 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:07:45 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:07:45 - Processing for date - "2025-09-03"
+2025-09-03 11:07:45 - Last attendance record
+2025-09-03 11:07:45 - Processing time in
+2025-09-03 11:07:45 - Time in recorded - {"time_in":"2025-09-03 17:07:45","insert_id":0}
+2025-09-03 11:07:45 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-03 17:07:45","time_out":null,"status":"Active"}}
+2025-09-03 11:07:49 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-03 11:07:49 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-03 11:07:49 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-03 11:07:49 - Attendance table exists
+2025-09-03 11:07:49 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-03 11:07:49 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-03 11:07:49 - Processing for date - "2025-09-03"
+2025-09-03 11:07:49 - Last attendance record - {"id":15,"time_in":"2025-09-03 17:07:45","time_out":null}
+2025-09-03 11:07:49 - Processing time out
+2025-09-03 11:07:49 - Time out recorded - {"time_out":"2025-09-03 17:07:49"}
+2025-09-03 11:07:49 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":15,"time_in":"2025-09-03 17:07:45","time_out":"2025-09-03 17:07:49","status":"Completed"}}
+2025-09-07 16:19:08 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-07 16:19:08 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-07 16:19:08 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-07 16:19:08 - Attendance table exists
+2025-09-07 16:19:08 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-07 16:19:09 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-07 16:19:09 - Processing for date - "2025-09-07"
+2025-09-07 16:19:09 - Last attendance record - {"id":19,"time_in":"2025-09-07 20:02:44","time_out":null}
+2025-09-07 16:19:09 - Processing time out
+2025-09-07 16:19:09 - Time out recorded - {"time_out":"2025-09-07 22:19:09"}
+2025-09-07 16:19:09 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":19,"time_in":"2025-09-07 20:02:44","time_out":"2025-09-07 22:19:09","status":"Completed"}}
+2025-09-07 23:49:29 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-07 23:49:29 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-07 23:49:29 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-07 23:49:29 - Attendance table exists
+2025-09-07 23:49:29 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-07 23:49:29 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-07 23:49:29 - Processing for date - "2025-09-08"
+2025-09-07 23:49:29 - Last attendance record
+2025-09-07 23:49:29 - Processing time in
+2025-09-07 23:49:29 - Time in recorded - {"time_in":"2025-09-08 05:49:29","insert_id":0}
+2025-09-07 23:49:29 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-08 05:49:29","time_out":null,"status":"Active"}}
+2025-09-07 23:49:40 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-07 23:49:40 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-07 23:49:40 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-07 23:49:40 - Attendance table exists
+2025-09-07 23:49:40 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-07 23:49:40 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-07 23:49:40 - Processing for date - "2025-09-08"
+2025-09-07 23:49:40 - Last attendance record - {"id":20,"time_in":"2025-09-08 05:49:29","time_out":null}
+2025-09-07 23:49:40 - Processing time out
+2025-09-07 23:49:40 - Time out recorded - {"time_out":"2025-09-08 05:49:40"}
+2025-09-07 23:49:40 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":20,"time_in":"2025-09-08 05:49:29","time_out":"2025-09-08 05:49:40","status":"Completed"}}
+2025-09-08 00:38:57 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-08 00:38:57 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-08 00:38:57 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-08 00:38:57 - Attendance table exists
+2025-09-08 00:38:57 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-08 00:38:57 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-08 00:38:57 - Processing for date - "2025-09-08"
+2025-09-08 00:38:57 - Last attendance record - {"id":20,"time_in":"2025-09-08 05:49:29","time_out":"2025-09-08 05:49:40"}
+2025-09-08 00:38:57 - Processing time in
+2025-09-08 00:38:57 - Time in recorded - {"time_in":"2025-09-08 06:38:57","insert_id":0}
+2025-09-08 00:38:57 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-08 06:38:57","time_out":null,"status":"Active"}}
+2025-09-08 00:39:11 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-08 00:39:11 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-08 00:39:11 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-08 00:39:11 - Attendance table exists
+2025-09-08 00:39:11 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-08 00:39:11 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-08 00:39:11 - Processing for date - "2025-09-08"
+2025-09-08 00:39:11 - Last attendance record - {"id":21,"time_in":"2025-09-08 06:38:57","time_out":null}
+2025-09-08 00:39:11 - Processing time out
+2025-09-08 00:39:11 - Time out recorded - {"time_out":"2025-09-08 06:39:11"}
+2025-09-08 00:39:11 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":21,"time_in":"2025-09-08 06:38:57","time_out":"2025-09-08 06:39:11","status":"Completed"}}
+2025-09-08 00:53:02 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-08 00:53:02 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-08 00:53:02 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-08 00:53:02 - Attendance table exists
+2025-09-08 00:53:02 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-08 00:53:02 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-08 00:53:02 - Processing for date - "2025-09-08"
+2025-09-08 00:53:02 - Last attendance record - {"id":21,"time_in":"2025-09-08 06:38:57","time_out":"2025-09-08 06:39:11"}
+2025-09-08 00:53:02 - Processing time in
+2025-09-08 00:53:02 - Time in recorded - {"time_in":"2025-09-08 06:53:02","insert_id":0}
+2025-09-08 00:53:02 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-08 06:53:02","time_out":null,"status":"Active"}}
+2025-09-08 00:53:08 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-08 00:53:08 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-08 00:53:08 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-08 00:53:08 - Attendance table exists
+2025-09-08 00:53:08 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-08 00:53:08 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-08 00:53:08 - Processing for date - "2025-09-08"
+2025-09-08 00:53:08 - Last attendance record - {"id":22,"time_in":"2025-09-08 06:53:02","time_out":null}
+2025-09-08 00:53:08 - Processing time out
+2025-09-08 00:53:08 - Time out recorded - {"time_out":"2025-09-08 06:53:08"}
+2025-09-08 00:53:08 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":22,"time_in":"2025-09-08 06:53:02","time_out":"2025-09-08 06:53:08","status":"Completed"}}
+2025-09-12 22:59:11 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-7208"
+2025-09-12 22:59:11 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-7208","type":"members"}
+2025-09-12 22:59:11 - Detected member QR with prefix - "MEM-2025-7208"
+2025-09-12 22:59:11 - Attendance table exists
+2025-09-12 22:59:11 - Searching for member - {"member_code":"MEM-2025-7208"}
+2025-09-12 22:59:11 - Member found - {"id":3,"member_id":"MEM-2025-7208","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-09-12 22:59:11 - Processing for date - "2025-09-13"
+2025-09-12 22:59:11 - Last attendance record
+2025-09-12 22:59:11 - Processing time in
+2025-09-12 22:59:11 - Time in recorded - {"time_in":"2025-09-13 04:59:11","insert_id":0}
+2025-09-12 22:59:11 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":3,"code":"MEM-2025-7208","name":"Jessa Acosta","type":"Regular"},"record":{"id":0,"time_in":"2025-09-13 04:59:11","time_out":null,"status":"Active"}}
+2025-09-12 23:00:38 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-7208"
+2025-09-12 23:00:38 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-7208","type":"members"}
+2025-09-12 23:00:38 - Detected member QR with prefix - "MEM-2025-7208"
+2025-09-12 23:00:38 - Attendance table exists
+2025-09-12 23:00:38 - Searching for member - {"member_code":"MEM-2025-7208"}
+2025-09-12 23:00:38 - Member found - {"id":3,"member_id":"MEM-2025-7208","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-09-12 23:00:38 - Processing for date - "2025-09-13"
+2025-09-12 23:00:38 - Last attendance record - {"id":23,"time_in":"2025-09-13 04:59:11","time_out":null}
+2025-09-12 23:00:38 - Processing time out
+2025-09-12 23:00:38 - Time out recorded - {"time_out":"2025-09-13 05:00:38"}
+2025-09-12 23:00:38 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":3,"code":"MEM-2025-7208","name":"Jessa Acosta","type":"Regular"},"record":{"id":23,"time_in":"2025-09-13 04:59:11","time_out":"2025-09-13 05:00:38","status":"Completed"}}
+2025-09-16 20:04:43 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0705"
+2025-09-16 20:04:43 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0705","type":"members"}
+2025-09-16 20:04:43 - Detected member QR with prefix - "MEM-2025-0705"
+2025-09-16 20:04:43 - Attendance table exists
+2025-09-16 20:04:43 - Searching for member - {"member_code":"MEM-2025-0705"}
+2025-09-16 20:04:43 - Member found - {"id":6,"member_id":"MEM-2025-0705","first_name":"AYAYA","last_name":"Kamisato","membership_type":"regular"}
+2025-09-16 20:04:43 - Processing for date - "2025-09-17"
+2025-09-16 20:04:43 - Last attendance record
+2025-09-16 20:04:43 - Processing time in
+2025-09-16 20:04:43 - Time in recorded - {"time_in":"2025-09-17 02:04:43","insert_id":0}
+2025-09-16 20:04:43 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":6,"code":"MEM-2025-0705","name":"AYAYA Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-09-17 02:04:43","time_out":null,"status":"Active"}}
+2025-09-16 20:06:48 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0705"
+2025-09-16 20:06:48 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0705","type":"members"}
+2025-09-16 20:06:48 - Detected member QR with prefix - "MEM-2025-0705"
+2025-09-16 20:06:48 - Attendance table exists
+2025-09-16 20:06:48 - Searching for member - {"member_code":"MEM-2025-0705"}
+2025-09-16 20:06:48 - Member found - {"id":6,"member_id":"MEM-2025-0705","first_name":"AYAYA","last_name":"Kamisato","membership_type":"regular"}
+2025-09-16 20:06:48 - Processing for date - "2025-09-17"
+2025-09-16 20:06:48 - Last attendance record - {"id":24,"time_in":"2025-09-17 02:04:43","time_out":null}
+2025-09-16 20:06:48 - Processing time out
+2025-09-16 20:06:49 - Time out recorded - {"time_out":"2025-09-17 02:06:48"}
+2025-09-16 20:06:49 - Success response - {"success":true,"action":"time_out","user_type":"member","member":{"id":6,"code":"MEM-2025-0705","name":"AYAYA Kamisato","type":"Regular"},"record":{"id":24,"time_in":"2025-09-17 02:04:43","time_out":"2025-09-17 02:06:48","status":"Completed"}}
+2025-09-17 08:04:52 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-1602"
+2025-09-17 08:04:52 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-1602","type":"members"}
+2025-09-17 08:04:52 - Detected member QR with prefix - "MEM-2025-1602"
+2025-09-17 08:04:52 - Attendance table exists
+2025-09-17 08:04:52 - Searching for member - {"member_code":"MEM-2025-1602"}
+2025-09-17 08:04:52 - Member found - {"id":7,"member_id":"MEM-2025-1602","first_name":"Sunshine","last_name":"Poserio","membership_type":"student"}
+2025-09-17 08:04:52 - Processing for date - "2025-09-17"
+2025-09-17 08:04:52 - Last attendance record
+2025-09-17 08:04:52 - Processing time in
+2025-09-17 08:04:52 - Time in recorded - {"time_in":"2025-09-17 14:04:52","insert_id":0}
+2025-09-17 08:04:52 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":7,"code":"MEM-2025-1602","name":"Sunshine Poserio","type":"Student"},"record":{"id":0,"time_in":"2025-09-17 14:04:52","time_out":null,"status":"Active"}}
+2025-09-17 08:05:35 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0705"
+2025-09-17 08:05:35 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0705","type":"members"}
+2025-09-17 08:05:35 - Detected member QR with prefix - "MEM-2025-0705"
+2025-09-17 08:05:35 - Attendance table exists
+2025-09-17 08:05:35 - Searching for member - {"member_code":"MEM-2025-0705"}
+2025-09-17 08:05:35 - Member found - {"id":6,"member_id":"MEM-2025-0705","first_name":"AYAYA","last_name":"Kamisato","membership_type":"regular"}
+2025-09-17 08:05:35 - Processing for date - "2025-09-17"
+2025-09-17 08:05:35 - Last attendance record - {"id":24,"time_in":"2025-09-17 02:04:43","time_out":"2025-09-17 02:06:48"}
+2025-09-17 08:05:35 - Processing time in
+2025-09-17 08:05:35 - Time in recorded - {"time_in":"2025-09-17 14:05:35","insert_id":0}
+2025-09-17 08:05:35 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":6,"code":"MEM-2025-0705","name":"AYAYA Kamisato","type":"Regular"},"record":{"id":0,"time_in":"2025-09-17 14:05:35","time_out":null,"status":"Active"}}
+2025-09-17 08:11:55 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-0128"
+2025-09-17 08:11:55 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-0128","type":"members"}
+2025-09-17 08:11:55 - Detected member QR with prefix - "MEM-2025-0128"
+2025-09-17 08:11:55 - Attendance table exists
+2025-09-17 08:11:55 - Searching for member - {"member_code":"MEM-2025-0128"}
+2025-09-17 08:11:55 - Member found - {"id":2,"member_id":"MEM-2025-0128","first_name":"Mark","last_name":"Sambrano","membership_type":"regular"}
+2025-09-17 08:11:55 - Processing for date - "2025-09-17"
+2025-09-17 08:11:55 - Last attendance record
+2025-09-17 08:11:55 - Processing time in
+2025-09-17 08:11:55 - Time in recorded - {"time_in":"2025-09-17 14:11:55","insert_id":0}
+2025-09-17 08:11:55 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":2,"code":"MEM-2025-0128","name":"Mark Sambrano","type":"Regular"},"record":{"id":0,"time_in":"2025-09-17 14:11:55","time_out":null,"status":"Active"}}
+2025-09-17 08:56:17 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-7199"
+2025-09-17 08:56:17 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-7199","type":"members"}
+2025-09-17 08:56:17 - Detected member QR with prefix - "MEM-2025-7199"
+2025-09-17 08:56:17 - Attendance table exists
+2025-09-17 08:56:17 - Searching for member - {"member_code":"MEM-2025-7199"}
+2025-09-17 08:56:17 - Member found - {"id":8,"member_id":"MEM-2025-7199","first_name":"Steven Charles","last_name":"Agcaoile","membership_type":"regular"}
+2025-09-17 08:56:17 - Processing for date - "2025-09-17"
+2025-09-17 08:56:17 - Last attendance record
+2025-09-17 08:56:17 - Processing time in
+2025-09-17 08:56:17 - Time in recorded - {"time_in":"2025-09-17 14:56:17","insert_id":0}
+2025-09-17 08:56:17 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":8,"code":"MEM-2025-7199","name":"Steven Charles Agcaoile","type":"Regular"},"record":{"id":0,"time_in":"2025-09-17 14:56:17","time_out":null,"status":"Active"}}
+2025-09-17 08:57:05 - Received QR data - "FIT_TRACK_MEMBER_ID:MEM-2025-7208"
+2025-09-17 08:57:05 - All POST data received - {"qr_data":"FIT_TRACK_MEMBER_ID:MEM-2025-7208","type":"members"}
+2025-09-17 08:57:05 - Detected member QR with prefix - "MEM-2025-7208"
+2025-09-17 08:57:05 - Attendance table exists
+2025-09-17 08:57:05 - Searching for member - {"member_code":"MEM-2025-7208"}
+2025-09-17 08:57:05 - Member found - {"id":3,"member_id":"MEM-2025-7208","first_name":"Jessa","last_name":"Acosta","membership_type":"regular"}
+2025-09-17 08:57:05 - Processing for date - "2025-09-17"
+2025-09-17 08:57:05 - Last attendance record
+2025-09-17 08:57:05 - Processing time in
+2025-09-17 08:57:05 - Time in recorded - {"time_in":"2025-09-17 14:57:05","insert_id":0}
+2025-09-17 08:57:05 - Success response - {"success":true,"action":"time_in","user_type":"member","member":{"id":3,"code":"MEM-2025-7208","name":"Jessa Acosta","type":"Regular"},"record":{"id":0,"time_in":"2025-09-17 14:57:05","time_out":null,"status":"Active"}}

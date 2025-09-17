@@ -1,0 +1,22 @@
+[27-Aug-2025 03:04:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\Users\Mark\Documents\FIT_TRACK_ yuinooo\qr\scan.php:167
+Stack trace:
+#0 C:\Users\Mark\Documents\FIT_TRACK_ yuinooo\qr\scan.php(167): mysqli->prepare('UPDATE attendan...')
+#1 {main}
+  thrown in C:\Users\Mark\Documents\FIT_TRACK_ yuinooo\qr\scan.php on line 167
+[30-Aug-2025 02:43:38 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:44:28 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:48:44 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:48:56 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:49:26 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:50:36 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:54:32 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:54:45 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:54:55 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:55:05 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:55:16 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:55:35 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:55:45 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:55:55 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:56:06 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:56:16 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'
+[30-Aug-2025 02:56:26 Europe/Berlin] Error in check_database: Unknown column 'm.contact_number' in 'field list'

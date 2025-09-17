@@ -1,0 +1,4 @@
+/* Members Table Custom Styles */
+#membersTable td {
+    vertical-align: middle;
+}
