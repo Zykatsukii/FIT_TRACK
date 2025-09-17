@@ -29,7 +29,9 @@ This section provides step-by-step instructions on how to use the Fit Track: Gym
 Open your browser and go to:
 
  http://localhost:8000/admin/index.php?page=login
-http://localhost:3000/admin/login.php
+
+
+ http://localhost:3000/admin/login.php
 
 
 
