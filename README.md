@@ -28,13 +28,15 @@ This section provides step-by-step instructions on how to use the Fit Track: Gym
 
 Open your browser and go to:
 
-http://localhost/fit-track-gym-management/
+ http://localhost:8000/admin/index.php?page=login
+http://localhost:3000/admin/login.php
+
 
 
 Enter the Admin credentials on the login page:
 
-Username: admin
-Password: admin123
+Username: admin@fittrack.com
+Password: RVG@12345
 
 
 Click Login to access the Admin Dashboard.
